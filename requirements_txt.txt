@@ -1,0 +1,50 @@
+# GUI Framework (usually comes with Python, but listing for completeness)
+# tkinter - Built into Python standard library
+
+# Email handling
+exchangelib>=4.9.0
+
+# HTTP requests for LLM API calls
+requests>=2.28.0
+
+# HTML parsing for email content
+beautifulsoup4>=4.11.0
+
+# Timezone handling
+pytz>=2022.7
+
+# JSON handling (built into Python standard library)
+# json - Built into Python standard library
+
+# Regular expressions (built into Python standard library)
+# re - Built into Python standard library
+
+# Email MIME handling (built into Python standard library)
+# email - Built into Python standard library
+
+# SSL support (built into Python standard library)
+# ssl - Built into Python standard library
+
+# SMTP client (built into Python standard library)
+# smtplib - Built into Python standard library
+
+# Threading (built into Python standard library)
+# threading - Built into Python standard library
+
+# Queue for thread communication (built into Python standard library)
+# queue - Built into Python standard library
+
+# Logging (built into Python standard library)
+# logging - Built into Python standard library
+
+# Date and time handling (built into Python standard library)
+# datetime - Built into Python standard library
+
+# File dialogs and path handling (built into Python standard library)
+# filedialog, os, sys - Built into Python standard library
+
+# Optional: For better HTML parsing performance
+lxml>=4.9.0
+
+# Optional: For enhanced SSL/TLS support in older Python versions
+certifi>=2022.12.7
